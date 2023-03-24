@@ -23,6 +23,7 @@ VS Code
 ## Recent Updates
 
 #### V 1.6
+
 *Removed extra code*
 
 ---
@@ -39,14 +40,16 @@ cd YourRepo/YourProject
 Once downloaded, open your terminal and run NPM start
 
 ---
-## Data Flow (Frontend, Backend, REST API)
-***[Add a clean and clear explanation of what the data flow is. Walk me through it.]***
-![Data Flow Diagram](/assets/img/Flowchart.png)
+
+## Data Flow (Backend)
+
+![Data Flow Diagram](assets/wrrc_city_explorer.png)
 
 ---
 
 
 ## Change Log
+
 ***[The change log will list any changes made to the code base. This includes any changes from TA/Instructor feedback]***
 
 1.6: *Removed extra code* - 22 Mar 2023
